@@ -1,8 +1,3 @@
-<div align="center">
-  <a href="https://Nikita-Kirillov.io">
-    <img src="https://media.giphy.com/media/7c8QeB0VMddFOuu4iR/giphy.gif" alt="MasterHead" width="100%">
-  </a>
-</div>
 
 <h1 align="center">Hey there <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32">, I'm Mahmet Arslan!</h1>
 
